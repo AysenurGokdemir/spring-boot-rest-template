@@ -1,2 +1,2 @@
 # spring-boot-rest-template
-spring boot rest template example
+github api using spring boot rest template example
